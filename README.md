@@ -1,5 +1,5 @@
 # Hello-World
 
-Guten Tag, volks!
+Guten Tag, Menschen!
 
 Alteração realizada, para concluir turorial.
